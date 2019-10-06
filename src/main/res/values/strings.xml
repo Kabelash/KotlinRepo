@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KotlinRepo</string>
+
+    <string name="img">Profile Image</string>
+    <string name="author">Author</string>
+    <string name="title">Commit Title</string>
+    <string name="date">Date and Time</string>
+</resources>
